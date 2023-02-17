@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Science and B.BA. in Business Administration, The Chinese University of Hong Kong, 2024
+* B.Sc. in Computer Science and B.BA. in Business Economics, The Chinese University of Hong Kong, 2024
 
 Work experience
 ======
