@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Yi JI"
-  avatar           : "portrait.png"
+  avatar           : "/files/portrait.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
   employer         :
