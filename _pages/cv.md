@@ -11,21 +11,19 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science and B.BA. in Business Administration, The Chinese University of Hong Kong, 2024
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Part-time Research Assistant (Dec. 2021 - Present)
+  * Decision Science and Managerial Economics Department, The Chinese University of Hong Kong
+  * Duties included: Summarising research papers, processing experiment data, conducting data analyses, preparing replication packages
+  * Supervisor: Prof. Yi-shan Lee
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer Research Internship (May 2022 - Sept. 2022)
+  * Computer Science and Engineering Department, The Chinese University of Hong Kong
+  * Duties included: Analysing research papers, processing experiment data and Building machine learning models
+  * Supervisor: Prof. Yu LI
   
 Skills
 ======
