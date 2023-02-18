@@ -10,7 +10,14 @@ redirect_from:
 
 About
 ------
-I am currently an undergraduate student majoring in Computer Science and Business Administration at The Chinese University of Hong Kong. 
+I am currently a year 4 undergraduate student majoring in Computer Science and Business Administration at The Chinese University of Hong Kong. 
+
+Honors & Awards
+------
+1. HKSAR Government Scholarship, 2022/23
+1. CSE Outstanding Academic Performance Scholarship, 2021/22
+1. Dean's List, 2019/20, 2020/21, 2021/22
+1. Head's List (Merit), 2020/21, 2021/22
 
 <!-- A data-driven personal website
 ======
@@ -50,10 +57,3 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
-
-Honors & Awards
-------
-1. HKSAR Government Scholarship, 2022/23
-1. CSE Outstanding Academic Performance Scholarship, 2021/22
-1. Dean's List, 2019/20, 2020/21, 2021/22
-1. Head's List (Merit), 2020/21, 2021/22
