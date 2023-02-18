@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+About
+------
 I am currently an undergraduate student majoring in Computer Science and Business Administration at The Chinese University of Hong Kong. 
 
 <!-- A data-driven personal website
