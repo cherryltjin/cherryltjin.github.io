@@ -14,10 +14,10 @@ I am currently a year 4 undergraduate student majoring in Computer Science and B
 
 Honors & Awards
 ------
-1. HKSAR Government Scholarship, 2022/23
-1. CSE Outstanding Academic Performance Scholarship, 2021/22
-1. Dean's List, 2019/20, 2020/21, 2021/22
-1. Head's List (Merit), 2020/21, 2021/22
+* HKSAR Government Scholarship, 2022/23
+* CSE Outstanding Academic Performance Scholarship, 2021/22
+* Dean's List, 2019/20, 2020/21, 2021/22
+* Head's List (Merit), 2020/21, 2021/22
 
 <!-- A data-driven personal website
 ======
