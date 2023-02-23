@@ -12,6 +12,7 @@ author_profile: true
 
 * CSCI3100 Software Engineering
     * <a href="https://course.cse.cuhk.edu.hk/~csci3100/">Course Website</a>
+    * <a href="https://piazza.com/class/lcbhem7o5hb7nt">Piazza</a>
 
 * CSCI4430 Data Communication and Computer Network
     * <a href="https://github.com/henryhxu/CSCI4430-ESTR4120">Course Website</a>
