@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yi JI"
+title: "Letian JIN"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,14 +10,11 @@ redirect_from:
 
 About
 ------
-I am currently a year 4 undergraduate student majoring in Computer Science and Business Administration at The Chinese University of Hong Kong. 
+I am currently a year 4 undergraduate student majoring in Credit Management at Jilin University. 
 
 Honors & Awards
 ------
-* HKSAR Government Scholarship, 2022/23
-* Outstanding Academic Performance Scholarship, 2021/22
-* Dean's List, 2019/20, 2020/21, 2021/22
-* Head's List (Merit), 2020/21, 2021/22
+* National Scholarship, 2019/20
 
 <!-- A data-driven personal website
 ======
