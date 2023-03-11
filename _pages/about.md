@@ -10,11 +10,15 @@ redirect_from:
 
 About
 ------
-I am currently a year 4 undergraduate student majoring in Credit Management at Jilin University. 
+I am currently a year 4 undergraduate student majoring in Credit Management at Jilin University. I will pursue my postgraduate degree in Finance over the next two years. 
 
 Honors & Awards
 ------
 * National Scholarship, 2019/20
+* First Scholarship, 2020/21, 2021/22
+* Social Scholarship, 2020/21, 2021/22
+* Outstanding Student, 2019/20, 2020/21, 2021/22
+* Outstanding Student Leader, 2020/21, 2021/22
 
 <!-- A data-driven personal website
 ======
