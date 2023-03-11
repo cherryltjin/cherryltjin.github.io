@@ -10,7 +10,7 @@ redirect_from:
 
 About
 ------
-I am currently a year 4 undergraduate student majoring in Credit Management at Jilin University. I will pursue my postgraduate degree in Finance over the next two years. 
+I am currently a year 4 undergraduate student majoring in Credit Management at Jilin University. I will pursue my postgraduate degree in Finance at Renmin University of China over the future two years. 
 
 Honors & Awards
 ------
