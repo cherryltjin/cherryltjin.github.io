@@ -18,7 +18,8 @@ Wind, CSMAR, WRDS
 
 ## Extra-Curricular Activities
 ---
-**President of the Graduate Student Union**,International College, Renmin University of China <span style="float: right;">Oct 2023 - Present</span> 
+**International College, Renmin University of China** \
+President of the Graduate Student Union <span style="float: right;">Oct 2023 - Present</span> 
 
 ## Hobbies
 ---
