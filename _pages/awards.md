@@ -7,6 +7,7 @@ author_profile: true
 
 ## Scholarships, Honors and Awards
 ---
+* National Scholarship, Renmin University of China <span style="float: right;">2024</span>
 * Merit Student, Renmin University of China <span style="float: right;">2024</span>
 * Execellent Student Cadre, Renmin University of China <span style="float: right;">2024</span>
 * Admission Scholarship, Renmin University of China <span style="float: right;">2023</span>
