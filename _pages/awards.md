@@ -11,7 +11,8 @@ author_profile: true
 * Execellent Student Cadre, Renmin University of China <span style="float: right;">2024</span>
 * Admission Scholarship, Renmin University of China <span style="float: right;">2023</span>
 * Outstanding Undergraduate Thesis Award, Jilin University <span style="float: right;">2023</span>
-* The Second Prize Scholarship, Jilin University <span style="float: right;">2023</span>Outstanding Undergraduate Student, Jilin University <span style="float: right;">2020, 2021, 2022, 2023</span>
+* The Second Prize Scholarship, Jilin University <span style="float: right;">2023</span>
+* Outstanding Undergraduate Student, Jilin University <span style="float: right;">2020, 2021, 2022, 2023</span>
 * The First Prize Scholarship, Jilin University <span style="float: right;">2021, 2022</span>
 * Xiaomi Scholarship for Outstanding Academic Performance, Jilin University <span style="float: right;">2022</span>
 * Samsung Scholarship for Outstanding Academic Performance, Jilin University <span style="float: right;">2021</span>

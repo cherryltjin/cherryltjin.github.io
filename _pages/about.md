@@ -21,10 +21,10 @@ Corporate Finance, Corporate Governance, Financial Accounting and Machine Learni
 ## Education
 ---
 **Renmin University of China** \
-Master of Finance (GPA: 3.90/4) <span style="float: right;">2023 - 2025 (expected)</span> 
+Master of Finance <span style="float: right;">2023 - 2025 (expected)</span> 
 
 **Jilin University** \
-Bechelor of Economics in Finance (GPA: 3.80/4) <span style="float: right;">2019 - 2023</span>  
+Bechelor of Economics in Finance <span style="float: right;">2019 - 2023</span>  
 
 ## Contact
 ---
