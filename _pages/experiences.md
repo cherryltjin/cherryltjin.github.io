@@ -5,16 +5,29 @@ permalink: /experiences/
 author_profile: true
 ---
 
-## Professional Experience
+## Professional Experiences
 ---
-**CITIC Securities**, Shenzhen, China \
-Investment Analyst Internship <span style="float: right;">Sep 2022 - Mar 2023</span> \
-**Description**: Assisted in preparing capital operation materials including Listing Announcement and Project Proposals for three IPOs and one Reorganization in the military industry;
-Designed presentation materials including BP and Roadshows for four companies;
-Involved in continuous supervision of three listing companies and issued relevant verification opinions.
+**Suzhou Municipal Finance Bureau** \
+Policy Research Assistant <span style="float: right;">Mar - Jul 2024</span> 
 
-## Research Experience
+**CITIC Securities** \
+Investment Analyst Internship <span style="float: right;">Sep 2022 - Mar 2023</span> 
+
+**Huatai Securities** \
+Marketing Internship <span style="float: right;">Jan 2022</span> 
+
+## Research Experiences
 ---
-**CUHK Business School**, Sha Tin, Hong Kong \
-Research Assistant <span style="float: right;">Aug 2024 - Present</span> \
-**Description**: Data collection and cleaning, statistical programming and data visualization, and preliminary regression analysis.
+**CUHK Business School** \
+Research Assistant <span style="float: right;">Aug 2024 - Present</span>
+
+**School of Business and Manament, Jilin University** \
+Graduation Thesis <span style="float: right;">Sep 2022 - Jun 2023</span>
+
+## Workshops and Summer Camps
+---
+**PhD Recruitment Summer Workshop**, CUHK Business School, Hong Kong <span style="float: right;">Jun 2024</span> \
+Accounting Area
+
+**PhD Recruitment Summer Workshop**, CUHK Business School, Hong Kong <span style="float: right;">Jun 2023</span> \
+Finance Area
