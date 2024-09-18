@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Cherry, Letian JIN"
+title                    : "Cherry, Letian Jin"
 title_separator          : "-"
-name                     : &name "Letian JIN"
+name                     : &name "Letian Jin"
 description              : &description "personal description"
 url                      : https://cherryltjin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Letian JIN"
   avatar           : "profile.jpg"
-  bio              : "JLU Undergraduate, RUC Postgraduate"
-  location         : "Suzhou, China"
+  bio              : "Master Student in Finance"
+  location         :
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "jltjy010327@163.com"
+  email            : "jinletian@ruc.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"jiyi1228"
+  twitter          :
   vine             :
   weibo            :
   xing             :
