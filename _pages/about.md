@@ -24,7 +24,7 @@ Corporate Finance, Corporate Governance, Financial Accounting and Machine Learni
 Master of Finance <span style="float: right;">2023 - 2025 (expected)</span> 
 
 **Jilin University** \
-Bechelor of Economics in Finance <span style="float: right;">2019 - 2023</span>  
+Bechelor of Economics <span style="float: right;">2019 - 2023</span>  
 
 ## Contact
 ---
